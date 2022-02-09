@@ -8,10 +8,11 @@
     },
     "Order": {
         "BookName": "Software",
-        "Quantity": "1",
+        "Quantity": 1,
         "Price": 1500,
         "TotalPrice": 1500,
         "Currency": "EUR"
     },
+    "role": "LocalManager",
     "approvalstep": "LocalManager"
 }
