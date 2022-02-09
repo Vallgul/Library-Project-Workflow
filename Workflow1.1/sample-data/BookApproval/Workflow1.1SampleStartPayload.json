@@ -1,0 +1,17 @@
+{
+    "RequestId": "Workflow1.1_REQ_001",
+    "Title": "Book(s) in order",
+    "Requester": {
+        "Name":"Ilya",
+        "UserId":"ilya_mazko@epam.com",
+        "Comment":"Please Approve"
+    },
+    "Order": {
+        "BookName": "Software",
+        "Quantity": "1",
+        "Price": 1500,
+        "TotalPrice": 1500,
+        "Currency": "EUR"
+    },
+    "approvalstep": "LocalManager"
+}
