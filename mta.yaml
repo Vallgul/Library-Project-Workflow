@@ -1,5 +1,5 @@
 _schema-version: "3.2"
-ID: ZLAB_LIBRARY_V1
+ID: wm-approve-book-order-v1
 version: 0.0.1
 modules:
 - name: Workflow1.1
